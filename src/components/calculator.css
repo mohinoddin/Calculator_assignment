@@ -1,0 +1,15 @@
+.inptbtn{
+    height: 82.45px;
+    width: 240px;
+    
+}
+
+button{
+    background: #161cdf !important;
+    color: white;
+}
+
+.container{
+    width: 450px;
+    height: 450px;
+}
