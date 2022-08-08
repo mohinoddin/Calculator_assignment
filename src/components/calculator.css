@@ -17,3 +17,30 @@ button{
 body{
     background: lightgray !important;
 }
+
+.mybtn{
+    width: 125%;
+    justify-content: center;
+}
+
+.splbtn{
+    width: 100% !important;
+    
+}
+
+.splbtn1{
+    width: 70% !important;
+    
+}
+
+.inptcls{
+    width: 350% !important;
+    margin-right: 5px;
+
+}
+
+.resdiv{
+    display: flex;
+    flex-direction: row;
+    
+}
