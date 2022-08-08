@@ -13,3 +13,7 @@ button{
     width: 450px;
     height: 450px;
 }
+
+body{
+    background: lightgray !important;
+}
